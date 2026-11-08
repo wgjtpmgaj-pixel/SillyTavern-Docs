@@ -1,3 +1,4 @@
+日本語
 ---
 order: 109
 route: /installation/updating/migration-guide-1-09/
